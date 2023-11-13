@@ -7,7 +7,7 @@ on:
 
 jobs:
   test:
-    runs-on: [self-hosted, linux, X64, demo-test-1]
+    runs-on: self-hosted
     strategy:
       matrix:
         node-version: [18.x]

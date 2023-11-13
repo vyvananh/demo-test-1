@@ -36,17 +36,6 @@
     "expose-loader": "^0.7.3",
     "extract-text-webpack-plugin": "^3.0.0",
     "file-loader": "^0.11.2",
-    "gulp": "^3.9.1",
-    "gulp-babel": "^7.0.0",
-    "gulp-clean": "^0.3.2",
-    "gulp-ejs": "3.0.1",
-    "gulp-esformatter": "6.0.0",
-    "gulp-eslint": "^4.0.0",
-    "gulp-loopback-sdk-angular": "^0.2.0",
-    "gulp-nodemon": "^2.2.1",
-    "gulp-rename": "^1.2.2",
-    "gulp-uglify": "^3.0.0",
-    "gulp-watch": "^4.3.11",
     "html-loader": "^0.5.1",
     "html-webpack-plugin": "^2.30.1",
     "inline-manifest-webpack-plugin": "^3.0.1",
@@ -135,7 +124,6 @@
     "stickyfilljs": "^2.0.2",
     "strong-error-handler": "^2.2.0",
     "tmp": "0.0.31",
-    "useragent": "^2.2.1",
-    "xxhash": "^0.2.4"
+    "useragent": "^2.2.1"
   }
 }
