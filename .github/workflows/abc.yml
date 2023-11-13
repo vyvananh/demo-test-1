@@ -15,7 +15,13 @@ jobs:
     steps:
     - name: Checkout the repository
       uses: actions/checkout@v3
-
+    - name: Save Cache
+      uses: actions/cache@v2
+      with:
+        path: |
+          ~/.npm
+        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+        size-limit: 2MB
     - name: Build
       uses: actions/setup-node@v3
       with:
