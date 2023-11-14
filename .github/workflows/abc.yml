@@ -34,8 +34,8 @@ jobs:
         run: |
           docker images
           df -h
-          ls
-          # du -h --max-depth=1 /
+          docker system prune --all
+          df -h
         shell: bash
 
 
