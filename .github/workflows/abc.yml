@@ -32,6 +32,7 @@ jobs:
       # - run: df -h
       - name: Debug Step
         run: |
+          sudo su
           ls /var/lib/docker
         shell: bash
 
