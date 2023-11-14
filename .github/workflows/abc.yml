@@ -33,5 +33,9 @@ jobs:
       - name: Debug Step
         run: |
           dir
+      - name: Disk Size
+        run: |
+          Get-Volume | Select-Object DriveLetter, FileSystemLabel, Size, SizeRemaining, FileSystem, DriveType
+          Get-Partition | Select-Object DiskNumber, DriveLetter, Size, Offset
 
 
