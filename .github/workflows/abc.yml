@@ -32,11 +32,9 @@ jobs:
       # - run: df -h
       - name: Debug Step
         run: |
-          docker images
           df -h
-          docker system prune --all
+          npm cache clean --force
           df -h
-          docker images
         shell: bash
 
 
