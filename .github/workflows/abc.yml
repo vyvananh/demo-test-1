@@ -36,6 +36,7 @@ jobs:
           df -h
           docker system prune --all
           df -h
+          docker images
         shell: bash
 
 
