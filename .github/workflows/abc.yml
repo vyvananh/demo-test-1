@@ -33,7 +33,7 @@ jobs:
       - name: Debug Step
         run: |
           df -h
-          npm cache clean --force
+          npm cache clean
           df -h
         shell: bash
 
