@@ -15,13 +15,13 @@ jobs:
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v3
-      - name: Save Cache
-        uses: actions/cache@v2
-        with:
-          path: |
-            ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          size-limit: 2MB
+      # - name: Save Cache
+      #   uses: actions/cache@v2
+      #   with:
+      #     path: |
+      #       ~/.npm
+      #     key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+      #     size-limit: 2MB
       - name: Build
         uses: actions/setup-node@v3
         with:
@@ -32,13 +32,7 @@ jobs:
       # - run: df -h
       - name: Debug Step
         run: |
-          echo "Current Directory: $(pwd)"
-          echo "Contents of the directory: $(ls -la)"
-          echo "Operating System: ${{ runner.os }}"
-          echo "GitHub Runner Version: ${{ runner.runnerVersion }}"
-          echo "GitHub Runner Version: ${{ runner.runnerVersion }}"
-          docker images
-          df -h
+          ls /var/lib/docker
         shell: bash
 
 
