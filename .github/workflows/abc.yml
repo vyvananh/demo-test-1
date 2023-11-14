@@ -35,7 +35,7 @@ jobs:
           docker images
           df -h
           ls
-          du -h --max-depth=1 /
+          # du -h --max-depth=1 /
         shell: bash
 
 
