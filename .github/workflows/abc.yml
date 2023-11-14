@@ -38,6 +38,7 @@ jobs:
           echo "GitHub Runner Version: ${{ runner.runnerVersion }}"
           echo "GitHub Runner Version: ${{ runner.runnerVersion }}"
           docker images
+          df -h
         shell: bash
 
 
