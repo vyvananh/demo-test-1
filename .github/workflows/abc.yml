@@ -36,6 +36,7 @@ jobs:
           echo "Contents of the directory: $(ls -la)"
           echo "Operating System: ${{ runner.os }}"
           echo "GitHub Runner Version: ${{ runner.runnerVersion }}"
+          echo "GitHub Runner Version: ${{ runner.runnerVersion }}"
           docker images
         shell: bash
 
