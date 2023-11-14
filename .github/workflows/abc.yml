@@ -32,9 +32,8 @@ jobs:
       - run: npm install
       - name: Debug Step
         run: |
-          # npm cache clean --force
-          # df -h
-          du -h --max-depth=1 /
+          npm cache clean --force
+          df -h
         shell: bash
 
 
