@@ -35,7 +35,6 @@ jobs:
           (Get-Item -LiteralPath $env:GITHUB_WORKSPACE).PSDrive.Free / 1GB
           Get-ChildItem -LiteralPath $env:GITHUB_WORKSPACE | Format-Table
 
-          Remove-Item -Path $env:GITHUB_WORKSPACE\ -Recurse -Force
 
 
 
