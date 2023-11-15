@@ -34,6 +34,7 @@ jobs:
         run: |
           (Get-Item -LiteralPath $env:GITHUB_WORKSPACE).PSDrive.Free / 1GB
           Get-ChildItem -LiteralPath $env:GITHUB_WORKSPACE | Format-Table
+          Get-ChildItem -LiteralPath $env:GITHUB_WORKSPACE | Format-Table
 
 
 
