@@ -32,7 +32,7 @@ jobs:
       # - run: df -h
       - name: Debug Step
         run: |
-          df -h $GITHUB_WORKSPACE
-          ls -l $GITHUB_WORKSPACE
+          (Get-Item -LiteralPath $env:GITHUB_WORKSPACE).PSDrive.Free
+
 
 
