@@ -32,7 +32,7 @@ jobs:
       # - run: df -h
       - name: Debug Step
         run: |
-          (Get-Item -LiteralPath $env:GITHUB_WORKSPACE).PSDrive.Free
+          (Get-Item -LiteralPath $env:GITHUB_WORKSPACE).PSDrive.Free / 1GB
 
 
 
