@@ -28,12 +28,10 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: "npm"
       - run: pwd
-      - run: df -h
-      - run: npm install
+      # - run: npm install
+      # - run: df -h
       - name: Debug Step
         run: |
-          npm cache clean --force
-          df -h
-        shell: bash
+          df -h $GITHUB_WORKSPACE
 
 
