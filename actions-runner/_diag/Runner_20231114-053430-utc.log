@@ -1,0 +1,61 @@
+[2023-11-14 05:34:30Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-11-14 05:34:30Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-14 05:34:30Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-14 05:34:30Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\user\Desktop\aaa\actions-runner\.credentials'
+[2023-11-14 05:34:30Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-14 05:34:30Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-14 05:34:30Z INFO HostContext] Well known config file 'Runner': 'C:\Users\user\Desktop\aaa\actions-runner\.runner'
+[2023-11-14 05:34:30Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-11-14 05:34:30Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22621.
+[2023-11-14 05:34:30Z INFO Listener] Version: 2.311.0
+[2023-11-14 05:34:30Z INFO Listener] Commit: f5cff308c83746dddd726a9a28a1583872305aaa
+[2023-11-14 05:34:30Z INFO Listener] Culture: en-001
+[2023-11-14 05:34:30Z INFO Listener] UI Culture: en-US
+[2023-11-14 05:34:30Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-14 05:34:30Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-14 05:34:30Z INFO Listener] Validating directory permissions for: 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-14 05:34:30Z INFO CommandLineParser] Parse
+[2023-11-14 05:34:30Z INFO CommandLineParser] Parsing 1 args
+[2023-11-14 05:34:30Z INFO CommandLineParser] parsing argument
+[2023-11-14 05:34:30Z INFO CommandLineParser] HasArgs: False
+[2023-11-14 05:34:30Z INFO CommandLineParser] Adding Command: run
+[2023-11-14 05:34:30Z INFO Listener] Arguments parsed
+[2023-11-14 05:34:30Z INFO Runner] ExecuteCommand
+[2023-11-14 05:34:30Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\user\Desktop\aaa\actions-runner\bin\Runner.Listener.dll
+[2023-11-14 05:34:30Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-14 05:34:30Z INFO ConfigurationStore] binPath: C:\Users\user\Desktop\aaa\actions-runner\bin
+[2023-11-14 05:34:30Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-14 05:34:30Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-14 05:34:30Z INFO ConfigurationStore] RootFolder: C:\Users\user\Desktop\aaa\actions-runner
+[2023-11-14 05:34:30Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-14 05:34:30Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-14 05:34:30Z INFO HostContext] Well known config file 'Runner': 'C:\Users\user\Desktop\aaa\actions-runner\.runner'
+[2023-11-14 05:34:30Z INFO ConfigurationStore] ConfigFilePath: C:\Users\user\Desktop\aaa\actions-runner\.runner
+[2023-11-14 05:34:30Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-14 05:34:30Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-14 05:34:30Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\user\Desktop\aaa\actions-runner\.credentials'
+[2023-11-14 05:34:30Z INFO ConfigurationStore] CredFilePath: C:\Users\user\Desktop\aaa\actions-runner\.credentials
+[2023-11-14 05:34:30Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-14 05:34:30Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-14 05:34:30Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\user\Desktop\aaa\actions-runner\.credentials_migrated'
+[2023-11-14 05:34:30Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\user\Desktop\aaa\actions-runner\.credentials_migrated
+[2023-11-14 05:34:30Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-14 05:34:30Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-14 05:34:30Z INFO HostContext] Well known config file 'Service': 'C:\Users\user\Desktop\aaa\actions-runner\.service'
+[2023-11-14 05:34:30Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\user\Desktop\aaa\actions-runner\.service
+[2023-11-14 05:34:30Z INFO CommandSettings] Flag 'help': 'False'
+[2023-11-14 05:34:30Z INFO CommandSettings] Flag 'version': 'False'
+[2023-11-14 05:34:30Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-11-14 05:34:30Z INFO CommandSettings] Flag 'check': 'False'
+[2023-11-14 05:34:30Z INFO CommandSettings] Command 'configure': 'False'
+[2023-11-14 05:34:30Z INFO CommandSettings] Command 'remove': 'False'
+[2023-11-14 05:34:30Z INFO CommandSettings] Command 'warmup': 'False'
+[2023-11-14 05:34:30Z INFO ConfigurationManager] LoadSettings
+[2023-11-14 05:34:30Z INFO ConfigurationStore] IsConfigured()
+[2023-11-14 05:34:30Z INFO ConfigurationStore] IsConfigured: False
+[2023-11-14 05:34:30Z INFO ConfigurationManager] Is configured: False
+[2023-11-14 05:34:30Z ERR  Terminal] WRITE ERROR: An error occurred: Not configured. Run config.(sh/cmd) to configure the runner.
+[2023-11-14 05:34:30Z ERR  Listener] GitHub.Runner.Common.NonRetryableException: Not configured. Run config.(sh/cmd) to configure the runner.
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.LoadSettings()
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+   at GitHub.Runner.Listener.Program.MainAsync(IHostContext context, String[] args)

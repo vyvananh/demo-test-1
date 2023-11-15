@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "vyvananh/demo-test-1",
+  "pipelineDirectory": "demo-test-1",
+  "workspaceDirectory": "demo-test-1\\demo-test-1",
+  "repositories": {
+    "vyvananh/demo-test-1": {
+      "repositoryPath": "demo-test-1\\demo-test-1",
+      "lastRunOn": "11/14/2023 14:36:19 +09:00"
+    }
+  },
+  "lastRunOn": "11/14/2023 14:59:52 +09:00"
+}
