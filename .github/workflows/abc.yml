@@ -33,5 +33,6 @@ jobs:
       - name: Debug Step
         run: |
           df -h $GITHUB_WORKSPACE
+          ls -l $GITHUB_WORKSPACE
 
 
