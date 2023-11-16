@@ -1,0 +1,311 @@
+[2023-11-16 01:48:53Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-11-16 01:48:53Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 01:48:53Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-16 01:48:53Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\user\Desktop\aaa\actions-runner\.credentials'
+[2023-11-16 01:48:54Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 01:48:54Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-16 01:48:54Z INFO HostContext] Well known config file 'Runner': 'C:\Users\user\Desktop\aaa\actions-runner\.runner'
+[2023-11-16 01:48:54Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-11-16 01:48:54Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22621.
+[2023-11-16 01:48:54Z INFO Listener] Version: 2.311.0
+[2023-11-16 01:48:54Z INFO Listener] Commit: f5cff308c83746dddd726a9a28a1583872305aaa
+[2023-11-16 01:48:54Z INFO Listener] Culture: en-001
+[2023-11-16 01:48:54Z INFO Listener] UI Culture: en-US
+[2023-11-16 01:48:54Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 01:48:54Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-16 01:48:54Z INFO Listener] Validating directory permissions for: 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-16 01:48:54Z INFO CommandLineParser] Parse
+[2023-11-16 01:48:54Z INFO CommandLineParser] Parsing 1 args
+[2023-11-16 01:48:54Z INFO CommandLineParser] parsing argument
+[2023-11-16 01:48:54Z INFO CommandLineParser] HasArgs: False
+[2023-11-16 01:48:54Z INFO CommandLineParser] Adding Command: run
+[2023-11-16 01:48:54Z INFO Listener] Arguments parsed
+[2023-11-16 01:48:55Z INFO Runner] ExecuteCommand
+[2023-11-16 01:48:55Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\user\Desktop\aaa\actions-runner\bin\Runner.Listener.dll
+[2023-11-16 01:48:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 01:48:55Z INFO ConfigurationStore] binPath: C:\Users\user\Desktop\aaa\actions-runner\bin
+[2023-11-16 01:48:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 01:48:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-16 01:48:55Z INFO ConfigurationStore] RootFolder: C:\Users\user\Desktop\aaa\actions-runner
+[2023-11-16 01:48:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 01:48:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-16 01:48:55Z INFO HostContext] Well known config file 'Runner': 'C:\Users\user\Desktop\aaa\actions-runner\.runner'
+[2023-11-16 01:48:55Z INFO ConfigurationStore] ConfigFilePath: C:\Users\user\Desktop\aaa\actions-runner\.runner
+[2023-11-16 01:48:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 01:48:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-16 01:48:55Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\user\Desktop\aaa\actions-runner\.credentials'
+[2023-11-16 01:48:55Z INFO ConfigurationStore] CredFilePath: C:\Users\user\Desktop\aaa\actions-runner\.credentials
+[2023-11-16 01:48:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 01:48:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-16 01:48:55Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\user\Desktop\aaa\actions-runner\.credentials_migrated'
+[2023-11-16 01:48:55Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\user\Desktop\aaa\actions-runner\.credentials_migrated
+[2023-11-16 01:48:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 01:48:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-16 01:48:55Z INFO HostContext] Well known config file 'Service': 'C:\Users\user\Desktop\aaa\actions-runner\.service'
+[2023-11-16 01:48:55Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\user\Desktop\aaa\actions-runner\.service
+[2023-11-16 01:48:55Z INFO CommandSettings] Flag 'help': 'False'
+[2023-11-16 01:48:55Z INFO CommandSettings] Flag 'version': 'False'
+[2023-11-16 01:48:55Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-11-16 01:48:55Z INFO CommandSettings] Flag 'check': 'False'
+[2023-11-16 01:48:55Z INFO CommandSettings] Command 'configure': 'False'
+[2023-11-16 01:48:55Z INFO CommandSettings] Command 'remove': 'False'
+[2023-11-16 01:48:55Z INFO CommandSettings] Command 'warmup': 'False'
+[2023-11-16 01:48:55Z INFO ConfigurationManager] LoadSettings
+[2023-11-16 01:48:55Z INFO ConfigurationStore] IsConfigured()
+[2023-11-16 01:48:55Z INFO ConfigurationStore] IsConfigured: True
+[2023-11-16 01:48:55Z INFO ConfigurationManager] Is configured: True
+[2023-11-16 01:48:55Z INFO ConfigurationStore] Read setting file: 311 chars
+[2023-11-16 01:48:55Z INFO ConfigurationManager] Settings Loaded
+[2023-11-16 01:48:55Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-11-16 01:48:55Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-11-16 01:48:55Z INFO CommandSettings] Command 'run': 'True'
+[2023-11-16 01:48:55Z INFO ConfigurationStore] IsConfigured()
+[2023-11-16 01:48:55Z INFO ConfigurationStore] IsConfigured: True
+[2023-11-16 01:48:55Z INFO ConfigurationManager] Is configured: True
+[2023-11-16 01:48:55Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2023-11-16 01:48:55Z INFO Runner] Set runner startup type - Manual
+[2023-11-16 01:48:55Z INFO CommandSettings] Flag 'once': 'False'
+[2023-11-16 01:48:55Z INFO CommandSettings] Flag 'once': 'False'
+[2023-11-16 01:48:55Z INFO Runner] RunAsync
+[2023-11-16 01:48:55Z INFO ConfigurationManager] LoadSettings
+[2023-11-16 01:48:55Z INFO ConfigurationStore] IsConfigured()
+[2023-11-16 01:48:55Z INFO ConfigurationStore] IsConfigured: True
+[2023-11-16 01:48:55Z INFO ConfigurationManager] Is configured: True
+[2023-11-16 01:48:55Z INFO ConfigurationManager] Settings Loaded
+[2023-11-16 01:48:55Z INFO MessageListener] {
+  "AgentId": 22,
+  "AgentName": "DESKTOP-AM03GLD",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus13.actions.githubusercontent.com/6gCGVzZXzJA1YpV7SdhtVVBV6RmkwSWn0nnfRtsbgqYTM2B6B1/",
+  "GitHubUrl": "https://github.com/vyvananh/demo-test-1",
+  "WorkFolder": "_work"
+}
+[2023-11-16 01:48:55Z INFO MessageListener] Loading Credentials
+[2023-11-16 01:48:55Z INFO ConfigurationStore] HasCredentials()
+[2023-11-16 01:48:55Z INFO ConfigurationStore] stored True
+[2023-11-16 01:48:55Z INFO CredentialManager] GetCredentialProvider
+[2023-11-16 01:48:55Z INFO CredentialManager] Creating type OAuth
+[2023-11-16 01:48:55Z INFO CredentialManager] Creating credential type: OAuth
+[2023-11-16 01:48:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 01:48:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-16 01:48:55Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams'
+[2023-11-16 01:48:55Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-16 01:48:55Z INFO MessageListener] Attempt to create session.
+[2023-11-16 01:48:55Z INFO MessageListener] Connecting to the Runner Server...
+[2023-11-16 01:48:55Z INFO RunnerServer] EstablishVssConnection
+[2023-11-16 01:48:55Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-11-16 01:48:55Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-11-16 01:48:55Z INFO RunnerServer] EstablishVssConnection
+[2023-11-16 01:48:55Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-11-16 01:48:55Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-11-16 01:48:55Z INFO RunnerServer] EstablishVssConnection
+[2023-11-16 01:48:55Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-11-16 01:48:55Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-11-16 01:48:56Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-11-16 01:48:56Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-11-16 01:48:56Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-11-16 01:48:57Z INFO MessageListener] VssConnection created
+[2023-11-16 01:48:57Z INFO Terminal] WRITE LINE: 
+[2023-11-16 01:48:57Z INFO Terminal] WRITE LINE: 
+[2023-11-16 01:48:57Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-16 01:48:57Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-16 01:48:57Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-16 01:48:58Z INFO MessageListener] Session created.
+[2023-11-16 01:48:58Z INFO Terminal] WRITE LINE: Current runner version: '2.311.0'
+[2023-11-16 01:48:58Z INFO Terminal] WRITE LINE: 2023-11-16 01:48:58Z: Listening for Jobs
+[2023-11-16 01:48:58Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2023-11-16 01:49:01Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-16 01:49:01Z INFO MessageListener] Message '22' received from session '9d432a0b-4b9d-4e41-8beb-ce7521816d3c'.
+[2023-11-16 01:49:01Z INFO Runner] Received job message of length 23687 from service, with hash 'a79fde44343d63a9fad2d27e18a422267ce95126357e3d9675c277babf88d615'
+[2023-11-16 01:49:01Z INFO JobDispatcher] Job request 55 for plan 78e7626d-11ca-4361-94ae-71875f9a9eb7 job 1d19dbed-3112-5bed-8bf5-86e1771f9272 received.
+[2023-11-16 01:49:01Z INFO JobDispatcher] Pull OrchestrationId 78e7626d-11ca-4361-94ae-71875f9a9eb7.test._18_x from JWT claims
+[2023-11-16 01:49:01Z INFO Terminal] WRITE LINE: 2023-11-16 01:49:01Z: Running job: test (18.x)
+[2023-11-16 01:49:01Z INFO JobDispatcher] Start renew job request 55 for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 01:49:01Z INFO JobDispatcher] Successfully renew job request 55, job is valid till 16/11/2023 01:58:59
+[2023-11-16 01:49:01Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 01:49:01Z INFO ProcessInvokerWrapper] Starting process:
+[2023-11-16 01:49:01Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\user\Desktop\aaa\actions-runner\bin\Runner.Worker.exe'
+[2023-11-16 01:49:01Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2236 1820'
+[2023-11-16 01:49:01Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 01:49:01Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-11-16 01:49:01Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-11-16 01:49:01Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-11-16 01:49:01Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-11-16 01:49:01Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-11-16 01:49:01Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-11-16 01:49:01Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-11-16 01:49:01Z INFO ProcessInvokerWrapper] Process started with process id 7996, waiting for process exit.
+[2023-11-16 01:49:01Z INFO JobDispatcher] Send job request message to worker for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 01:49:01Z INFO ProcessChannel] Sending message of length 23687, with hash 'a79fde44343d63a9fad2d27e18a422267ce95126357e3d9675c277babf88d615'
+[2023-11-16 01:49:02Z INFO JobNotification] Entering JobStarted Notification
+[2023-11-16 01:49:02Z INFO JobNotification] Entering StartMonitor
+[2023-11-16 01:50:01Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 01:50:01Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 01:50:01Z INFO ProcessInvokerWrapper] Finished process 7996 with exit code 100, and elapsed time 00:00:59.8945958.
+[2023-11-16 01:50:01Z INFO JobDispatcher] Worker finished for job 1d19dbed-3112-5bed-8bf5-86e1771f9272. Code: 100
+[2023-11-16 01:50:01Z INFO JobDispatcher] finish job request for job 1d19dbed-3112-5bed-8bf5-86e1771f9272 with result: Succeeded
+[2023-11-16 01:50:01Z INFO Terminal] WRITE LINE: 2023-11-16 01:50:01Z: Job test (18.x) completed with result: Succeeded
+[2023-11-16 01:50:01Z INFO JobDispatcher] Stop renew job request for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 01:50:01Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 55.
+[2023-11-16 01:50:01Z INFO JobNotification] Entering JobCompleted Notification
+[2023-11-16 01:50:01Z INFO JobNotification] Entering EndMonitor
+[2023-11-16 01:50:27Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-16 01:50:27Z INFO MessageListener] Message '23' received from session '9d432a0b-4b9d-4e41-8beb-ce7521816d3c'.
+[2023-11-16 01:50:27Z INFO Runner] Received job message of length 23956 from service, with hash '50b929a7fd0d97dcee0112fd77563a730ce195111b413e2d62aa191cf3083196'
+[2023-11-16 01:50:27Z INFO JobDispatcher] Job request 56 for plan b417c040-947c-4e7d-bc4b-512bee19a92f job 1d19dbed-3112-5bed-8bf5-86e1771f9272 received.
+[2023-11-16 01:50:27Z INFO JobDispatcher] Pull OrchestrationId b417c040-947c-4e7d-bc4b-512bee19a92f.test._18_x from JWT claims
+[2023-11-16 01:50:27Z INFO JobDispatcher] Job request 1d19dbed-3112-5bed-8bf5-86e1771f9272 processed succeed.
+[2023-11-16 01:50:27Z INFO Terminal] WRITE LINE: 2023-11-16 01:50:27Z: Running job: test (18.x)
+[2023-11-16 01:50:27Z INFO JobDispatcher] Start renew job request 56 for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 01:50:27Z INFO JobDispatcher] Successfully renew job request 56, job is valid till 16/11/2023 02:00:26
+[2023-11-16 01:50:27Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 01:50:27Z INFO ProcessInvokerWrapper] Starting process:
+[2023-11-16 01:50:27Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\user\Desktop\aaa\actions-runner\bin\Runner.Worker.exe'
+[2023-11-16 01:50:27Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2304 2316'
+[2023-11-16 01:50:27Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 01:50:27Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-11-16 01:50:27Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-11-16 01:50:27Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-11-16 01:50:27Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-11-16 01:50:27Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-11-16 01:50:27Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-11-16 01:50:27Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-11-16 01:50:27Z INFO ProcessInvokerWrapper] Process started with process id 7660, waiting for process exit.
+[2023-11-16 01:50:27Z INFO JobDispatcher] Send job request message to worker for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 01:50:27Z INFO ProcessChannel] Sending message of length 23956, with hash '50b929a7fd0d97dcee0112fd77563a730ce195111b413e2d62aa191cf3083196'
+[2023-11-16 01:50:28Z INFO JobNotification] Entering JobStarted Notification
+[2023-11-16 01:50:28Z INFO JobNotification] Entering StartMonitor
+[2023-11-16 01:51:28Z INFO JobDispatcher] Successfully renew job request 56, job is valid till 16/11/2023 02:01:26
+[2023-11-16 01:52:28Z INFO JobDispatcher] Successfully renew job request 56, job is valid till 16/11/2023 02:02:26
+[2023-11-16 01:53:28Z INFO JobDispatcher] Successfully renew job request 56, job is valid till 16/11/2023 02:03:26
+[2023-11-16 01:54:28Z INFO JobDispatcher] Successfully renew job request 56, job is valid till 16/11/2023 02:04:27
+[2023-11-16 01:55:15Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 01:55:15Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 01:55:15Z INFO ProcessInvokerWrapper] Finished process 7660 with exit code 100, and elapsed time 00:04:47.7374286.
+[2023-11-16 01:55:15Z INFO JobDispatcher] Worker finished for job 1d19dbed-3112-5bed-8bf5-86e1771f9272. Code: 100
+[2023-11-16 01:55:15Z INFO JobDispatcher] finish job request for job 1d19dbed-3112-5bed-8bf5-86e1771f9272 with result: Succeeded
+[2023-11-16 01:55:15Z INFO Terminal] WRITE LINE: 2023-11-16 01:55:15Z: Job test (18.x) completed with result: Succeeded
+[2023-11-16 01:55:15Z INFO JobDispatcher] Stop renew job request for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 01:55:15Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 56.
+[2023-11-16 01:55:15Z INFO JobNotification] Entering JobCompleted Notification
+[2023-11-16 01:55:15Z INFO JobNotification] Entering EndMonitor
+[2023-11-16 01:56:25Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-16 01:56:25Z INFO MessageListener] Message '24' received from session '9d432a0b-4b9d-4e41-8beb-ce7521816d3c'.
+[2023-11-16 01:56:25Z INFO Runner] Received job message of length 24021 from service, with hash '053fbe230f858c6d02127fe81760d315c292b855188018401e79d54a73cb26c9'
+[2023-11-16 01:56:25Z INFO JobDispatcher] Job request 57 for plan b499a25b-3e45-45a9-8840-e4cf02a538e4 job 1d19dbed-3112-5bed-8bf5-86e1771f9272 received.
+[2023-11-16 01:56:25Z INFO JobDispatcher] Pull OrchestrationId b499a25b-3e45-45a9-8840-e4cf02a538e4.test._18_x from JWT claims
+[2023-11-16 01:56:25Z INFO JobDispatcher] Job request 1d19dbed-3112-5bed-8bf5-86e1771f9272 processed succeed.
+[2023-11-16 01:56:25Z INFO Terminal] WRITE LINE: 2023-11-16 01:56:25Z: Running job: test (18.x)
+[2023-11-16 01:56:25Z INFO JobDispatcher] Start renew job request 57 for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 01:56:26Z INFO JobDispatcher] Successfully renew job request 57, job is valid till 16/11/2023 02:06:24
+[2023-11-16 01:56:26Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 01:56:26Z INFO ProcessInvokerWrapper] Starting process:
+[2023-11-16 01:56:26Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\user\Desktop\aaa\actions-runner\bin\Runner.Worker.exe'
+[2023-11-16 01:56:26Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 1684 1808'
+[2023-11-16 01:56:26Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 01:56:26Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-11-16 01:56:26Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-11-16 01:56:26Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-11-16 01:56:26Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-11-16 01:56:26Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-11-16 01:56:26Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-11-16 01:56:26Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-11-16 01:56:26Z INFO ProcessInvokerWrapper] Process started with process id 16788, waiting for process exit.
+[2023-11-16 01:56:26Z INFO JobDispatcher] Send job request message to worker for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 01:56:26Z INFO ProcessChannel] Sending message of length 24021, with hash '053fbe230f858c6d02127fe81760d315c292b855188018401e79d54a73cb26c9'
+[2023-11-16 01:56:27Z INFO JobNotification] Entering JobStarted Notification
+[2023-11-16 01:56:27Z INFO JobNotification] Entering StartMonitor
+[2023-11-16 01:57:26Z INFO JobDispatcher] Successfully renew job request 57, job is valid till 16/11/2023 02:07:25
+[2023-11-16 01:58:27Z INFO JobDispatcher] Successfully renew job request 57, job is valid till 16/11/2023 02:08:25
+[2023-11-16 01:59:27Z INFO JobDispatcher] Successfully renew job request 57, job is valid till 16/11/2023 02:09:25
+[2023-11-16 02:00:27Z INFO JobDispatcher] Successfully renew job request 57, job is valid till 16/11/2023 02:10:25
+[2023-11-16 02:01:22Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 02:01:22Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 02:01:22Z INFO ProcessInvokerWrapper] Finished process 16788 with exit code 100, and elapsed time 00:04:55.3836739.
+[2023-11-16 02:01:22Z INFO JobDispatcher] Worker finished for job 1d19dbed-3112-5bed-8bf5-86e1771f9272. Code: 100
+[2023-11-16 02:01:22Z INFO JobDispatcher] finish job request for job 1d19dbed-3112-5bed-8bf5-86e1771f9272 with result: Succeeded
+[2023-11-16 02:01:22Z INFO Terminal] WRITE LINE: 2023-11-16 02:01:22Z: Job test (18.x) completed with result: Succeeded
+[2023-11-16 02:01:22Z INFO JobDispatcher] Stop renew job request for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 02:01:22Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 57.
+[2023-11-16 02:01:22Z INFO JobNotification] Entering JobCompleted Notification
+[2023-11-16 02:01:22Z INFO JobNotification] Entering EndMonitor
+[2023-11-16 02:02:24Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-16 02:02:24Z INFO MessageListener] Message '25' received from session '9d432a0b-4b9d-4e41-8beb-ce7521816d3c'.
+[2023-11-16 02:02:24Z INFO Runner] Received job message of length 24086 from service, with hash '859755fb25ac9c4bf3bb02b5bc928fac8f5d6145cfa706bc1cb6178c2dc10631'
+[2023-11-16 02:02:24Z INFO JobDispatcher] Job request 58 for plan 81c0827f-9f2a-4d52-8503-a6a06920963e job 1d19dbed-3112-5bed-8bf5-86e1771f9272 received.
+[2023-11-16 02:02:24Z INFO JobDispatcher] Pull OrchestrationId 81c0827f-9f2a-4d52-8503-a6a06920963e.test._18_x from JWT claims
+[2023-11-16 02:02:24Z INFO JobDispatcher] Job request 1d19dbed-3112-5bed-8bf5-86e1771f9272 processed succeed.
+[2023-11-16 02:02:24Z INFO Terminal] WRITE LINE: 2023-11-16 02:02:24Z: Running job: test (18.x)
+[2023-11-16 02:02:24Z INFO JobDispatcher] Start renew job request 58 for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 02:02:25Z INFO JobDispatcher] Successfully renew job request 58, job is valid till 16/11/2023 02:12:23
+[2023-11-16 02:02:25Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 02:02:25Z INFO ProcessInvokerWrapper] Starting process:
+[2023-11-16 02:02:25Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\user\Desktop\aaa\actions-runner\bin\Runner.Worker.exe'
+[2023-11-16 02:02:25Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 1712 1288'
+[2023-11-16 02:02:25Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 02:02:25Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-11-16 02:02:25Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-11-16 02:02:25Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-11-16 02:02:25Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-11-16 02:02:25Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-11-16 02:02:25Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-11-16 02:02:25Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-11-16 02:02:25Z INFO ProcessInvokerWrapper] Process started with process id 8240, waiting for process exit.
+[2023-11-16 02:02:25Z INFO JobDispatcher] Send job request message to worker for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 02:02:25Z INFO ProcessChannel] Sending message of length 24086, with hash '859755fb25ac9c4bf3bb02b5bc928fac8f5d6145cfa706bc1cb6178c2dc10631'
+[2023-11-16 02:02:26Z INFO JobNotification] Entering JobStarted Notification
+[2023-11-16 02:02:26Z INFO JobNotification] Entering StartMonitor
+[2023-11-16 02:03:25Z INFO JobDispatcher] Successfully renew job request 58, job is valid till 16/11/2023 02:13:24
+[2023-11-16 02:04:26Z INFO JobDispatcher] Successfully renew job request 58, job is valid till 16/11/2023 02:14:24
+[2023-11-16 02:05:26Z INFO JobDispatcher] Successfully renew job request 58, job is valid till 16/11/2023 02:15:24
+[2023-11-16 02:06:19Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 02:06:19Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 02:06:19Z INFO ProcessInvokerWrapper] Finished process 8240 with exit code 100, and elapsed time 00:03:53.7688244.
+[2023-11-16 02:06:19Z INFO JobDispatcher] Worker finished for job 1d19dbed-3112-5bed-8bf5-86e1771f9272. Code: 100
+[2023-11-16 02:06:19Z INFO JobDispatcher] finish job request for job 1d19dbed-3112-5bed-8bf5-86e1771f9272 with result: Succeeded
+[2023-11-16 02:06:19Z INFO Terminal] WRITE LINE: 2023-11-16 02:06:19Z: Job test (18.x) completed with result: Succeeded
+[2023-11-16 02:06:19Z INFO JobDispatcher] Stop renew job request for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 02:06:19Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 58.
+[2023-11-16 02:06:19Z INFO JobNotification] Entering JobCompleted Notification
+[2023-11-16 02:06:19Z INFO JobNotification] Entering EndMonitor
+[2023-11-16 02:10:10Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-16 02:10:10Z INFO MessageListener] Message '26' received from session '9d432a0b-4b9d-4e41-8beb-ce7521816d3c'.
+[2023-11-16 02:10:10Z INFO Runner] Received job message of length 23909 from service, with hash '82905272f187bc5131a63d242aa0b461910e3609c1b1ad397cb2cc5ab75da4eb'
+[2023-11-16 02:10:10Z INFO JobDispatcher] Job request 59 for plan 3e70407f-f6ee-49f9-a3f9-7e0a1a65d7e8 job 1d19dbed-3112-5bed-8bf5-86e1771f9272 received.
+[2023-11-16 02:10:10Z INFO JobDispatcher] Pull OrchestrationId 3e70407f-f6ee-49f9-a3f9-7e0a1a65d7e8.test._18_x from JWT claims
+[2023-11-16 02:10:10Z INFO JobDispatcher] Job request 1d19dbed-3112-5bed-8bf5-86e1771f9272 processed succeed.
+[2023-11-16 02:10:10Z INFO Terminal] WRITE LINE: 2023-11-16 02:10:10Z: Running job: test (18.x)
+[2023-11-16 02:10:10Z INFO JobDispatcher] Start renew job request 59 for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 02:10:10Z INFO JobDispatcher] Successfully renew job request 59, job is valid till 16/11/2023 02:20:09
+[2023-11-16 02:10:10Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 02:10:10Z INFO ProcessInvokerWrapper] Starting process:
+[2023-11-16 02:10:10Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\user\Desktop\aaa\actions-runner\bin\Runner.Worker.exe'
+[2023-11-16 02:10:10Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 1772 1904'
+[2023-11-16 02:10:10Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 02:10:10Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-11-16 02:10:10Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-11-16 02:10:10Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-11-16 02:10:10Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-11-16 02:10:10Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-11-16 02:10:10Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-11-16 02:10:10Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-11-16 02:10:10Z INFO ProcessInvokerWrapper] Process started with process id 16672, waiting for process exit.
+[2023-11-16 02:10:10Z INFO JobDispatcher] Send job request message to worker for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 02:10:10Z INFO ProcessChannel] Sending message of length 23909, with hash '82905272f187bc5131a63d242aa0b461910e3609c1b1ad397cb2cc5ab75da4eb'
+[2023-11-16 02:10:11Z INFO JobNotification] Entering JobStarted Notification
+[2023-11-16 02:10:11Z INFO JobNotification] Entering StartMonitor
+[2023-11-16 02:11:10Z INFO JobDispatcher] Successfully renew job request 59, job is valid till 16/11/2023 02:21:09
+[2023-11-16 02:12:11Z INFO JobDispatcher] Successfully renew job request 59, job is valid till 16/11/2023 02:22:09
+[2023-11-16 02:13:11Z INFO JobDispatcher] Successfully renew job request 59, job is valid till 16/11/2023 02:23:09
+[2023-11-16 02:14:11Z INFO JobDispatcher] Successfully renew job request 59, job is valid till 16/11/2023 02:24:10
+[2023-11-16 02:14:57Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 02:14:57Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 02:14:57Z INFO ProcessInvokerWrapper] Finished process 16672 with exit code 100, and elapsed time 00:04:46.7608176.
+[2023-11-16 02:14:57Z INFO JobDispatcher] Worker finished for job 1d19dbed-3112-5bed-8bf5-86e1771f9272. Code: 100
+[2023-11-16 02:14:57Z INFO JobDispatcher] finish job request for job 1d19dbed-3112-5bed-8bf5-86e1771f9272 with result: Succeeded
+[2023-11-16 02:14:57Z INFO Terminal] WRITE LINE: 2023-11-16 02:14:57Z: Job test (18.x) completed with result: Succeeded
+[2023-11-16 02:14:57Z INFO JobDispatcher] Stop renew job request for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 02:14:57Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 59.
+[2023-11-16 02:14:57Z INFO JobNotification] Entering JobCompleted Notification
+[2023-11-16 02:14:57Z INFO JobNotification] Entering EndMonitor
