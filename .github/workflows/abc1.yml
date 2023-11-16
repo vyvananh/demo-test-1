@@ -1,0 +1,45 @@
+name: Backend Continuous Integration 2
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    runs-on: self-hosted
+    strategy:
+      matrix:
+        node-version: [18.x]
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+      # - name: Save Cache
+      #   uses: actions/cache@v2
+      #   with:
+      #     path: |
+      #       ~/.npm
+      #     key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+      #     size-limit: 2MB
+      - name: Build
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: "npm"
+      - run: pwd
+      - run: npm install
+      # - run: df -h
+      - name: Debug Step
+        run: |
+          (Get-Item -LiteralPath $env:GITHUB_WORKSPACE).PSDrive.Free / 1GB
+          Get-ChildItem -LiteralPath $env:GITHUB_WORKSPACE | Format-Table
+          Get-ChildItem -LiteralPath $env:GITHUB_WORKSPACE | Format-Table
+          Get-ChildItem -LiteralPath $env:GITHUB_WORKSPACE | Format-Table
+      - name: Show Disk Space Usage
+        run: |
+          Get-PSDrive
+          Get-Item $env:GITHUB_WORKSPACE | Format-List
+
+
+
