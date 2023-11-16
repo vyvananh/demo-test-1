@@ -351,3 +351,54 @@
 [2023-11-16 02:29:30Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 60.
 [2023-11-16 02:29:30Z INFO JobNotification] Entering JobCompleted Notification
 [2023-11-16 02:29:30Z INFO JobNotification] Entering EndMonitor
+[2023-11-16 02:39:56Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-16 02:39:56Z INFO MessageListener] Message '28' received from session '9d432a0b-4b9d-4e41-8beb-ce7521816d3c'.
+[2023-11-16 02:39:56Z INFO Runner] Received job message of length 23909 from service, with hash '7cb0000296138c0361df1e88b481446502c85be50ef40493c3591f63f044350e'
+[2023-11-16 02:39:56Z INFO JobDispatcher] Job request 61 for plan 0ba763a9-f583-40f8-8aac-49613eefd833 job 1d19dbed-3112-5bed-8bf5-86e1771f9272 received.
+[2023-11-16 02:39:56Z INFO JobDispatcher] Pull OrchestrationId 0ba763a9-f583-40f8-8aac-49613eefd833.test._18_x from JWT claims
+[2023-11-16 02:39:56Z INFO JobDispatcher] Job request 1d19dbed-3112-5bed-8bf5-86e1771f9272 processed succeed.
+[2023-11-16 02:39:56Z INFO Terminal] WRITE LINE: 2023-11-16 02:39:56Z: Running job: test (18.x)
+[2023-11-16 02:39:56Z INFO JobDispatcher] Start renew job request 61 for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 02:39:57Z INFO JobDispatcher] Successfully renew job request 61, job is valid till 16/11/2023 02:49:55
+[2023-11-16 02:39:57Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 02:39:57Z INFO ProcessInvokerWrapper] Starting process:
+[2023-11-16 02:39:57Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\user\Desktop\aaa\actions-runner\bin\Runner.Worker.exe'
+[2023-11-16 02:39:57Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2308 2404'
+[2023-11-16 02:39:57Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-16 02:39:57Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-11-16 02:39:57Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-11-16 02:39:57Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-11-16 02:39:57Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-11-16 02:39:57Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-11-16 02:39:57Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-11-16 02:39:57Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-11-16 02:39:57Z INFO ProcessInvokerWrapper] Process started with process id 17112, waiting for process exit.
+[2023-11-16 02:39:57Z INFO JobDispatcher] Send job request message to worker for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 02:39:57Z INFO ProcessChannel] Sending message of length 23909, with hash '7cb0000296138c0361df1e88b481446502c85be50ef40493c3591f63f044350e'
+[2023-11-16 02:39:57Z INFO JobNotification] Entering JobStarted Notification
+[2023-11-16 02:39:57Z INFO JobNotification] Entering StartMonitor
+[2023-11-16 02:40:57Z INFO JobDispatcher] Successfully renew job request 61, job is valid till 16/11/2023 02:50:55
+[2023-11-16 02:41:57Z INFO JobDispatcher] Successfully renew job request 61, job is valid till 16/11/2023 02:51:56
+[2023-11-16 02:42:58Z INFO JobDispatcher] Successfully renew job request 61, job is valid till 16/11/2023 02:52:56
+[2023-11-16 02:43:58Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-16 02:43:59Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-16 02:43:59Z INFO JobDispatcher] Successfully renew job request 61, job is valid till 16/11/2023 02:53:57
+[2023-11-16 02:44:59Z INFO JobDispatcher] Successfully renew job request 61, job is valid till 16/11/2023 02:54:57
+[2023-11-16 02:45:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 02:45:56Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 02:45:56Z INFO ProcessInvokerWrapper] Finished process 17112 with exit code 100, and elapsed time 00:05:59.5912155.
+[2023-11-16 02:45:56Z INFO JobDispatcher] Worker finished for job 1d19dbed-3112-5bed-8bf5-86e1771f9272. Code: 100
+[2023-11-16 02:45:56Z INFO JobDispatcher] finish job request for job 1d19dbed-3112-5bed-8bf5-86e1771f9272 with result: Succeeded
+[2023-11-16 02:45:56Z INFO Terminal] WRITE LINE: 2023-11-16 02:45:56Z: Job test (18.x) completed with result: Succeeded
+[2023-11-16 02:45:56Z INFO JobDispatcher] Stop renew job request for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-16 02:45:56Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 61.
+[2023-11-16 02:45:56Z INFO JobNotification] Entering JobCompleted Notification
+[2023-11-16 02:45:56Z INFO JobNotification] Entering EndMonitor
+[2023-11-16 03:10:07Z INFO MessageListener] No message retrieved from session '9d432a0b-4b9d-4e41-8beb-ce7521816d3c' within last 30 minutes.
+[2023-11-16 03:39:26Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-16 03:39:26Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-16 03:40:16Z INFO MessageListener] No message retrieved from session '9d432a0b-4b9d-4e41-8beb-ce7521816d3c' within last 30 minutes.
+[2023-11-16 04:10:25Z INFO MessageListener] No message retrieved from session '9d432a0b-4b9d-4e41-8beb-ce7521816d3c' within last 30 minutes.
+[2023-11-16 04:34:42Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-16 04:34:43Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-16 04:40:35Z INFO MessageListener] No message retrieved from session '9d432a0b-4b9d-4e41-8beb-ce7521816d3c' within last 30 minutes.
