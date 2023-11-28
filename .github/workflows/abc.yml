@@ -33,6 +33,8 @@ jobs:
       - name: Debug Step
         run: |
           (Get-Item -LiteralPath $env:GITHUB_WORKSPACE).PSDrive.Free / 1GB
+          find . -wholename "*/_work/_tool/gcloud" 2> /dev/null -exec xdg-open {} \;
+
 
 
 
