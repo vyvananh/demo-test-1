@@ -1,0 +1,173 @@
+[2023-11-28 01:26:37Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-11-28 01:26:37Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-28 01:26:37Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-28 01:26:37Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\user\Desktop\aaa\actions-runner\.credentials'
+[2023-11-28 01:26:39Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-28 01:26:39Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-28 01:26:39Z INFO HostContext] Well known config file 'Runner': 'C:\Users\user\Desktop\aaa\actions-runner\.runner'
+[2023-11-28 01:26:39Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-11-28 01:26:39Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22621.
+[2023-11-28 01:26:39Z INFO Listener] Version: 2.311.0
+[2023-11-28 01:26:39Z INFO Listener] Commit: f5cff308c83746dddd726a9a28a1583872305aaa
+[2023-11-28 01:26:39Z INFO Listener] Culture: en-001
+[2023-11-28 01:26:39Z INFO Listener] UI Culture: en-US
+[2023-11-28 01:26:39Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-28 01:26:39Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-28 01:26:39Z INFO Listener] Validating directory permissions for: 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-28 01:26:39Z INFO CommandLineParser] Parse
+[2023-11-28 01:26:39Z INFO CommandLineParser] Parsing 1 args
+[2023-11-28 01:26:39Z INFO CommandLineParser] parsing argument
+[2023-11-28 01:26:39Z INFO CommandLineParser] HasArgs: False
+[2023-11-28 01:26:39Z INFO CommandLineParser] Adding Command: run
+[2023-11-28 01:26:39Z INFO Listener] Arguments parsed
+[2023-11-28 01:26:40Z INFO Runner] ExecuteCommand
+[2023-11-28 01:26:40Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\user\Desktop\aaa\actions-runner\bin\Runner.Listener.dll
+[2023-11-28 01:26:40Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-28 01:26:40Z INFO ConfigurationStore] binPath: C:\Users\user\Desktop\aaa\actions-runner\bin
+[2023-11-28 01:26:40Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-28 01:26:40Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-28 01:26:40Z INFO ConfigurationStore] RootFolder: C:\Users\user\Desktop\aaa\actions-runner
+[2023-11-28 01:26:40Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-28 01:26:40Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-28 01:26:40Z INFO HostContext] Well known config file 'Runner': 'C:\Users\user\Desktop\aaa\actions-runner\.runner'
+[2023-11-28 01:26:40Z INFO ConfigurationStore] ConfigFilePath: C:\Users\user\Desktop\aaa\actions-runner\.runner
+[2023-11-28 01:26:40Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-28 01:26:40Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-28 01:26:40Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\user\Desktop\aaa\actions-runner\.credentials'
+[2023-11-28 01:26:40Z INFO ConfigurationStore] CredFilePath: C:\Users\user\Desktop\aaa\actions-runner\.credentials
+[2023-11-28 01:26:40Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-28 01:26:40Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-28 01:26:40Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\user\Desktop\aaa\actions-runner\.credentials_migrated'
+[2023-11-28 01:26:40Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\user\Desktop\aaa\actions-runner\.credentials_migrated
+[2023-11-28 01:26:40Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-28 01:26:40Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-28 01:26:40Z INFO HostContext] Well known config file 'Service': 'C:\Users\user\Desktop\aaa\actions-runner\.service'
+[2023-11-28 01:26:40Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\user\Desktop\aaa\actions-runner\.service
+[2023-11-28 01:26:40Z INFO CommandSettings] Flag 'help': 'False'
+[2023-11-28 01:26:40Z INFO CommandSettings] Flag 'version': 'False'
+[2023-11-28 01:26:40Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-11-28 01:26:40Z INFO CommandSettings] Flag 'check': 'False'
+[2023-11-28 01:26:40Z INFO CommandSettings] Command 'configure': 'False'
+[2023-11-28 01:26:40Z INFO CommandSettings] Command 'remove': 'False'
+[2023-11-28 01:26:40Z INFO CommandSettings] Command 'warmup': 'False'
+[2023-11-28 01:26:40Z INFO ConfigurationManager] LoadSettings
+[2023-11-28 01:26:40Z INFO ConfigurationStore] IsConfigured()
+[2023-11-28 01:26:40Z INFO ConfigurationStore] IsConfigured: True
+[2023-11-28 01:26:40Z INFO ConfigurationManager] Is configured: True
+[2023-11-28 01:26:40Z INFO ConfigurationStore] Read setting file: 311 chars
+[2023-11-28 01:26:40Z INFO ConfigurationManager] Settings Loaded
+[2023-11-28 01:26:40Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-11-28 01:26:40Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-11-28 01:26:40Z INFO CommandSettings] Command 'run': 'True'
+[2023-11-28 01:26:40Z INFO ConfigurationStore] IsConfigured()
+[2023-11-28 01:26:40Z INFO ConfigurationStore] IsConfigured: True
+[2023-11-28 01:26:40Z INFO ConfigurationManager] Is configured: True
+[2023-11-28 01:26:40Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2023-11-28 01:26:40Z INFO Runner] Set runner startup type - Manual
+[2023-11-28 01:26:40Z INFO CommandSettings] Flag 'once': 'False'
+[2023-11-28 01:26:40Z INFO CommandSettings] Flag 'once': 'False'
+[2023-11-28 01:26:40Z INFO Runner] RunAsync
+[2023-11-28 01:26:40Z INFO ConfigurationManager] LoadSettings
+[2023-11-28 01:26:40Z INFO ConfigurationStore] IsConfigured()
+[2023-11-28 01:26:40Z INFO ConfigurationStore] IsConfigured: True
+[2023-11-28 01:26:40Z INFO ConfigurationManager] Is configured: True
+[2023-11-28 01:26:40Z INFO ConfigurationManager] Settings Loaded
+[2023-11-28 01:26:40Z INFO MessageListener] {
+  "AgentId": 22,
+  "AgentName": "DESKTOP-AM03GLD",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus13.actions.githubusercontent.com/6gCGVzZXzJA1YpV7SdhtVVBV6RmkwSWn0nnfRtsbgqYTM2B6B1/",
+  "GitHubUrl": "https://github.com/vyvananh/demo-test-1",
+  "WorkFolder": "_work"
+}
+[2023-11-28 01:26:40Z INFO MessageListener] Loading Credentials
+[2023-11-28 01:26:40Z INFO ConfigurationStore] HasCredentials()
+[2023-11-28 01:26:40Z INFO ConfigurationStore] stored True
+[2023-11-28 01:26:40Z INFO CredentialManager] GetCredentialProvider
+[2023-11-28 01:26:40Z INFO CredentialManager] Creating type OAuth
+[2023-11-28 01:26:40Z INFO CredentialManager] Creating credential type: OAuth
+[2023-11-28 01:26:40Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-28 01:26:40Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\Desktop\aaa\actions-runner'
+[2023-11-28 01:26:40Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams'
+[2023-11-28 01:26:40Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-28 01:26:40Z INFO MessageListener] Attempt to create session.
+[2023-11-28 01:26:40Z INFO MessageListener] Connecting to the Runner Server...
+[2023-11-28 01:26:40Z INFO RunnerServer] EstablishVssConnection
+[2023-11-28 01:26:40Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-11-28 01:26:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-11-28 01:26:41Z INFO RunnerServer] EstablishVssConnection
+[2023-11-28 01:26:41Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-11-28 01:26:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-11-28 01:26:41Z INFO RunnerServer] EstablishVssConnection
+[2023-11-28 01:26:41Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-11-28 01:26:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-11-28 01:26:42Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-11-28 01:26:42Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-11-28 01:26:42Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-11-28 01:26:42Z INFO MessageListener] VssConnection created
+[2023-11-28 01:26:42Z INFO Terminal] WRITE LINE: 
+[2023-11-28 01:26:42Z INFO Terminal] WRITE LINE: 
+[2023-11-28 01:26:43Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-28 01:26:43Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-28 01:26:43Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-28 01:26:43Z INFO MessageListener] Session created.
+[2023-11-28 01:26:43Z INFO Terminal] WRITE LINE: Current runner version: '2.311.0'
+[2023-11-28 01:26:43Z INFO Terminal] WRITE LINE: 2023-11-28 01:26:43Z: Listening for Jobs
+[2023-11-28 01:26:43Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2023-11-28 01:29:03Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-28 01:29:03Z INFO MessageListener] Message '33' received from session 'd364b9f8-9de7-49a2-90a1-063c4ed7646b'.
+[2023-11-28 01:29:03Z INFO Runner] Received job message of length 23909 from service, with hash 'd83699322eb201ac665263c4b36f3bcf10952518401b67fcedcf3db0f7c9bcc0'
+[2023-11-28 01:29:03Z INFO JobDispatcher] Job request 66 for plan 9c35760f-d178-40f7-8817-f7065dbb5c01 job 1d19dbed-3112-5bed-8bf5-86e1771f9272 received.
+[2023-11-28 01:29:03Z INFO JobDispatcher] Pull OrchestrationId 9c35760f-d178-40f7-8817-f7065dbb5c01.test._18_x from JWT claims
+[2023-11-28 01:29:03Z INFO Terminal] WRITE LINE: 2023-11-28 01:29:03Z: Running job: test (18.x)
+[2023-11-28 01:29:03Z INFO JobDispatcher] Start renew job request 66 for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-28 01:29:04Z INFO JobDispatcher] Successfully renew job request 66, job is valid till 28/11/2023 01:39:03
+[2023-11-28 01:29:04Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-28 01:29:04Z INFO ProcessInvokerWrapper] Starting process:
+[2023-11-28 01:29:04Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\user\Desktop\aaa\actions-runner\bin\Runner.Worker.exe'
+[2023-11-28 01:29:04Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 1316 2128'
+[2023-11-28 01:29:04Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-28 01:29:04Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-11-28 01:29:04Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-11-28 01:29:04Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-11-28 01:29:04Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-11-28 01:29:04Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-11-28 01:29:04Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-11-28 01:29:04Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-11-28 01:29:04Z INFO ProcessInvokerWrapper] Process started with process id 13612, waiting for process exit.
+[2023-11-28 01:29:04Z INFO JobDispatcher] Send job request message to worker for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-28 01:29:04Z INFO ProcessChannel] Sending message of length 23909, with hash 'd83699322eb201ac665263c4b36f3bcf10952518401b67fcedcf3db0f7c9bcc0'
+[2023-11-28 01:29:05Z INFO JobNotification] Entering JobStarted Notification
+[2023-11-28 01:29:05Z INFO JobNotification] Entering StartMonitor
+[2023-11-28 01:30:04Z INFO JobDispatcher] Successfully renew job request 66, job is valid till 28/11/2023 01:40:04
+[2023-11-28 01:31:05Z INFO JobDispatcher] Successfully renew job request 66, job is valid till 28/11/2023 01:41:04
+[2023-11-28 01:32:05Z INFO JobDispatcher] Successfully renew job request 66, job is valid till 28/11/2023 01:42:04
+[2023-11-28 01:33:05Z INFO JobDispatcher] Successfully renew job request 66, job is valid till 28/11/2023 01:43:05
+[2023-11-28 01:34:05Z INFO JobDispatcher] Successfully renew job request 66, job is valid till 28/11/2023 01:44:05
+[2023-11-28 01:35:06Z INFO JobDispatcher] Successfully renew job request 66, job is valid till 28/11/2023 01:45:05
+[2023-11-28 01:36:07Z INFO JobDispatcher] Successfully renew job request 66, job is valid till 28/11/2023 01:46:06
+[2023-11-28 01:37:07Z INFO JobDispatcher] Successfully renew job request 66, job is valid till 28/11/2023 01:47:07
+[2023-11-28 01:38:07Z INFO JobDispatcher] Successfully renew job request 66, job is valid till 28/11/2023 01:48:07
+[2023-11-28 01:38:44Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-28 01:38:44Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-28 01:38:44Z INFO ProcessInvokerWrapper] Finished process 13612 with exit code 100, and elapsed time 00:09:39.8630544.
+[2023-11-28 01:38:44Z INFO JobDispatcher] Worker finished for job 1d19dbed-3112-5bed-8bf5-86e1771f9272. Code: 100
+[2023-11-28 01:38:44Z INFO JobDispatcher] finish job request for job 1d19dbed-3112-5bed-8bf5-86e1771f9272 with result: Succeeded
+[2023-11-28 01:38:44Z INFO Terminal] WRITE LINE: 2023-11-28 01:38:44Z: Job test (18.x) completed with result: Succeeded
+[2023-11-28 01:38:44Z INFO JobDispatcher] Stop renew job request for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-28 01:38:44Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 66.
+[2023-11-28 01:38:44Z INFO JobNotification] Entering JobCompleted Notification
+[2023-11-28 01:38:44Z INFO JobNotification] Entering EndMonitor
+[2023-11-28 01:59:13Z INFO MessageListener] No message retrieved from session 'd364b9f8-9de7-49a2-90a1-063c4ed7646b' within last 30 minutes.
+[2023-11-28 02:21:50Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-28 02:21:51Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-28 02:29:23Z INFO MessageListener] No message retrieved from session 'd364b9f8-9de7-49a2-90a1-063c4ed7646b' within last 30 minutes.
+[2023-11-28 02:59:32Z INFO MessageListener] No message retrieved from session 'd364b9f8-9de7-49a2-90a1-063c4ed7646b' within last 30 minutes.
+[2023-11-28 03:17:07Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-28 03:17:07Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-28 03:29:40Z INFO MessageListener] No message retrieved from session 'd364b9f8-9de7-49a2-90a1-063c4ed7646b' within last 30 minutes.
+[2023-11-28 03:59:49Z INFO MessageListener] No message retrieved from session 'd364b9f8-9de7-49a2-90a1-063c4ed7646b' within last 30 minutes.
+[2023-11-28 04:12:24Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-28 04:12:24Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-28 04:29:59Z INFO MessageListener] No message retrieved from session 'd364b9f8-9de7-49a2-90a1-063c4ed7646b' within last 30 minutes.
