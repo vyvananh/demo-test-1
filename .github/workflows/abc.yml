@@ -28,12 +28,12 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: "npm"
       - run: pwd
-      - run: npm install
+      # - run: npm install
       # - run: df -h
       - name: Debug Step
         run: |
           (Get-Item -LiteralPath $env:GITHUB_WORKSPACE).PSDrive.Free / 1GB
-          find . -wholename "*/_work/_tool/gcloud" 2> /dev/null -exec xdg-open {} \;
+          find . -wholename "*/_work/_tool" 2> /dev/null -exec xdg-open {} \;
 
 
 

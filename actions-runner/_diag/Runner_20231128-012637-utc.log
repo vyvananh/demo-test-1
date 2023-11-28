@@ -258,3 +258,86 @@
 [2023-11-28 05:07:55Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
 [2023-11-28 05:07:55Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
 [2023-11-28 05:24:39Z INFO MessageListener] No message retrieved from session 'd364b9f8-9de7-49a2-90a1-063c4ed7646b' within last 30 minutes.
+[2023-11-28 05:43:43Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-28 05:43:43Z INFO MessageListener] Message '36' received from session 'd364b9f8-9de7-49a2-90a1-063c4ed7646b'.
+[2023-11-28 05:43:43Z INFO Runner] Received job message of length 24334 from service, with hash '0fd6d095d5c9655f943b0145eccdede66102a621f7bdb860a034c2e8165b787a'
+[2023-11-28 05:43:43Z INFO JobDispatcher] Job request 69 for plan f1031d8b-5635-4dbf-a021-d5152ec472b4 job 1d19dbed-3112-5bed-8bf5-86e1771f9272 received.
+[2023-11-28 05:43:43Z INFO JobDispatcher] Pull OrchestrationId f1031d8b-5635-4dbf-a021-d5152ec472b4.test._18_x from JWT claims
+[2023-11-28 05:43:43Z INFO JobDispatcher] Job request 1d19dbed-3112-5bed-8bf5-86e1771f9272 processed succeed.
+[2023-11-28 05:43:43Z INFO Terminal] WRITE LINE: 2023-11-28 05:43:43Z: Running job: test (18.x)
+[2023-11-28 05:43:43Z INFO JobDispatcher] Start renew job request 69 for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-28 05:43:43Z INFO JobDispatcher] Successfully renew job request 69, job is valid till 28/11/2023 05:53:43
+[2023-11-28 05:43:43Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-28 05:43:43Z INFO ProcessInvokerWrapper] Starting process:
+[2023-11-28 05:43:43Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\user\Desktop\aaa\actions-runner\bin\Runner.Worker.exe'
+[2023-11-28 05:43:43Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 1520 2676'
+[2023-11-28 05:43:43Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-28 05:43:43Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-11-28 05:43:43Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-11-28 05:43:43Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-11-28 05:43:43Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-11-28 05:43:43Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-11-28 05:43:43Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-11-28 05:43:43Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-11-28 05:43:43Z INFO ProcessInvokerWrapper] Process started with process id 16840, waiting for process exit.
+[2023-11-28 05:43:43Z INFO JobDispatcher] Send job request message to worker for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-28 05:43:43Z INFO ProcessChannel] Sending message of length 24334, with hash '0fd6d095d5c9655f943b0145eccdede66102a621f7bdb860a034c2e8165b787a'
+[2023-11-28 05:43:44Z INFO JobNotification] Entering JobStarted Notification
+[2023-11-28 05:43:44Z INFO JobNotification] Entering StartMonitor
+[2023-11-28 05:44:44Z INFO JobDispatcher] Successfully renew job request 69, job is valid till 28/11/2023 05:54:43
+[2023-11-28 05:45:44Z INFO JobDispatcher] Successfully renew job request 69, job is valid till 28/11/2023 05:55:44
+[2023-11-28 05:46:44Z INFO JobDispatcher] Successfully renew job request 69, job is valid till 28/11/2023 05:56:44
+[2023-11-28 05:47:44Z INFO JobDispatcher] Successfully renew job request 69, job is valid till 28/11/2023 05:57:44
+[2023-11-28 05:48:45Z INFO JobDispatcher] Successfully renew job request 69, job is valid till 28/11/2023 05:58:44
+[2023-11-28 05:49:45Z INFO JobDispatcher] Successfully renew job request 69, job is valid till 28/11/2023 05:59:44
+[2023-11-28 05:50:45Z INFO JobDispatcher] Successfully renew job request 69, job is valid till 28/11/2023 06:00:45
+[2023-11-28 05:51:46Z INFO JobDispatcher] Successfully renew job request 69, job is valid till 28/11/2023 06:01:45
+[2023-11-28 05:52:46Z INFO JobDispatcher] Successfully renew job request 69, job is valid till 28/11/2023 06:02:45
+[2023-11-28 05:53:46Z INFO JobDispatcher] Successfully renew job request 69, job is valid till 28/11/2023 06:03:46
+[2023-11-28 05:54:46Z INFO JobDispatcher] Successfully renew job request 69, job is valid till 28/11/2023 06:04:46
+[2023-11-28 05:55:47Z INFO JobDispatcher] Successfully renew job request 69, job is valid till 28/11/2023 06:05:46
+[2023-11-28 05:56:47Z INFO JobDispatcher] Successfully renew job request 69, job is valid till 28/11/2023 06:06:47
+[2023-11-28 05:57:48Z INFO JobDispatcher] Successfully renew job request 69, job is valid till 28/11/2023 06:07:47
+[2023-11-28 05:57:52Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-28 05:57:52Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-28 05:57:52Z INFO ProcessInvokerWrapper] Finished process 16840 with exit code 100, and elapsed time 00:14:09.0757897.
+[2023-11-28 05:57:52Z INFO JobDispatcher] Worker finished for job 1d19dbed-3112-5bed-8bf5-86e1771f9272. Code: 100
+[2023-11-28 05:57:52Z INFO JobDispatcher] finish job request for job 1d19dbed-3112-5bed-8bf5-86e1771f9272 with result: Succeeded
+[2023-11-28 05:57:52Z INFO Terminal] WRITE LINE: 2023-11-28 05:57:52Z: Job test (18.x) completed with result: Succeeded
+[2023-11-28 05:57:52Z INFO JobDispatcher] Stop renew job request for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-28 05:57:52Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 69.
+[2023-11-28 05:57:52Z INFO JobNotification] Entering JobCompleted Notification
+[2023-11-28 05:57:52Z INFO JobNotification] Entering EndMonitor
+[2023-11-28 05:57:55Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-28 05:57:55Z INFO MessageListener] Message '37' received from session 'd364b9f8-9de7-49a2-90a1-063c4ed7646b'.
+[2023-11-28 05:57:55Z INFO Runner] Received job message of length 23811 from service, with hash 'ef52f87dbd7cb2db5942364b592538b07c83bae1ec700939f2eba16fe87784ef'
+[2023-11-28 05:57:55Z INFO JobDispatcher] Job request 70 for plan 30350ca7-129c-4470-a247-e13812c18674 job 1d19dbed-3112-5bed-8bf5-86e1771f9272 received.
+[2023-11-28 05:57:55Z INFO JobDispatcher] Pull OrchestrationId 30350ca7-129c-4470-a247-e13812c18674.test._18_x from JWT claims
+[2023-11-28 05:57:55Z INFO JobDispatcher] Job request 1d19dbed-3112-5bed-8bf5-86e1771f9272 processed succeed.
+[2023-11-28 05:57:55Z INFO Terminal] WRITE LINE: 2023-11-28 05:57:55Z: Running job: test (18.x)
+[2023-11-28 05:57:55Z INFO JobDispatcher] Start renew job request 70 for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-28 05:57:55Z INFO JobDispatcher] Successfully renew job request 70, job is valid till 28/11/2023 06:07:55
+[2023-11-28 05:57:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-28 05:57:55Z INFO ProcessInvokerWrapper] Starting process:
+[2023-11-28 05:57:55Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\user\Desktop\aaa\actions-runner\bin\Runner.Worker.exe'
+[2023-11-28 05:57:55Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2436 2396'
+[2023-11-28 05:57:55Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\user\Desktop\aaa\actions-runner\bin'
+[2023-11-28 05:57:55Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-11-28 05:57:55Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-11-28 05:57:55Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-11-28 05:57:55Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-11-28 05:57:55Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-11-28 05:57:55Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-11-28 05:57:55Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-11-28 05:57:55Z INFO ProcessInvokerWrapper] Process started with process id 19016, waiting for process exit.
+[2023-11-28 05:57:55Z INFO JobDispatcher] Send job request message to worker for job 1d19dbed-3112-5bed-8bf5-86e1771f9272.
+[2023-11-28 05:57:55Z INFO ProcessChannel] Sending message of length 23811, with hash 'ef52f87dbd7cb2db5942364b592538b07c83bae1ec700939f2eba16fe87784ef'
+[2023-11-28 05:57:56Z INFO JobNotification] Entering JobStarted Notification
+[2023-11-28 05:57:56Z INFO JobNotification] Entering StartMonitor
+[2023-11-28 05:58:55Z INFO JobDispatcher] Successfully renew job request 70, job is valid till 28/11/2023 06:08:55
+[2023-11-28 05:59:55Z INFO JobDispatcher] Successfully renew job request 70, job is valid till 28/11/2023 06:09:55
+[2023-11-28 06:00:55Z INFO JobDispatcher] Successfully renew job request 70, job is valid till 28/11/2023 06:10:55
+[2023-11-28 06:01:56Z INFO JobDispatcher] Successfully renew job request 70, job is valid till 28/11/2023 06:11:55
+[2023-11-28 06:02:56Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\Desktop\aaa\actions-runner\.credentials_rsaparams
+[2023-11-28 06:02:57Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-28 06:02:57Z INFO JobDispatcher] Successfully renew job request 70, job is valid till 28/11/2023 06:12:57
